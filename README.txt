@@ -2,8 +2,10 @@ Dropdown Unrelated Tasks Filter
 
 Version: 1.3.0
 System name: unrelated_tasks_filter
-Tested Perfex CRM version: 3.4.1
-Minimum supported Perfex CRM version: 3.4.1
+Tested with: Perfex CRM 3.4.1, PHP 8.2
+License: MIT (see LICENSE.txt)
+
+Compatibility has only been verified against the versions listed above. Other combinations are untested.
 
 Installation
 1. Extract the unrelated_tasks_filter folder from the package.
